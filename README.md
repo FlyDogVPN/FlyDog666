@@ -9,7 +9,7 @@
 
 ---
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [Android 版本.APK](https://feigou.flydog888.com/download/flygo-2.7.apk)
+#### :arrow_double_down: [Android 版本.APK](https://feigou.flydog888.com/download/flygo-2.8.apk)
 #### :arrow_double_down: [ios 版本.ipa](http://iosdownloadxgahwh.flydog888.com)
 #### :arrow_double_down: [Windows 版本.exe](https://feigou.flydog888.com/download/flydog-release.rar)
 #### :arrow_double_down: [macOS 版本.dmg](https://feigou.flydog888.com/download/flydogmac.dmg)
